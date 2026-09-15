@@ -1,4 +1,4 @@
-# 🇬🇧 UK Weekly Road Fuel Price Analysis
+# UK Weekly Road Fuel Price Analysis
 
 > **Junior Data Analyst Portfolio Project — Microsoft Excel**
 
